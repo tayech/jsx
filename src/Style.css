@@ -1,0 +1,20 @@
+div{
+    padding: 10%;
+    display: wrap;
+}
+.title  {
+    font-style: italic;
+    color: red; 
+}
+
+
+img{
+width: 100px;
+}
+video{
+    margin-top: 10px;
+}
+.form{
+    display: flex;
+    justify-content: space-between;
+}
